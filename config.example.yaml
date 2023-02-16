@@ -1,0 +1,5 @@
+timeout: 5
+email: test@test.com
+password: abcd1234
+interval: 15
+url: http://localhost
